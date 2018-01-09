@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="raffle:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="raffle.war">
+      <element id="artifact" artifact-name="raffle:war exploded" />
+    </root>
+  </artifact>
+</component>
